@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Hi%2C%20I'm%20Vishwas%20Wankhede%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Developer%20%E2%80%A2%20Bengaluru%2C%20India&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Hi%2C%20I'm%20Vishwas%20Wankhede%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://github.com/Vishhwas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9AB7&center=true&vCenter=true&width=650&lines=Senior+Consultant+%40+Deloitte;10%2B+years+building+Java+backends;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Quarkus+%E2%80%A2+AWS;Modernizing+legacy+systems+for+the+cloud" alt="Typing SVG" />

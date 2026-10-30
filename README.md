@@ -11,8 +11,6 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/vishwas-wankhede"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://komarev.com/ghpvc/?username=Vishhwas&style=for-the-badge&color=2c5364&label=Profile+views" alt="profile views" />
-
 </div>
 
 ---

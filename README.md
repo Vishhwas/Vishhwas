@@ -26,7 +26,6 @@ I'm a backend engineer with **10+ years** of experience designing and building *
 - 🔁 I automate infrastructure and delivery with **CloudFormation**, **CodePipeline** and **Tekton**
 - 🛡️ I care about quality: **TDD**, **JUnit/Mockito**, **SonarQube** and **Veracode**-clean code
 - 🌍 I run **multi-region deployments with failover** for high availability
-- 🧑‍🏫 I mentor junior engineers
 - 🗣️ I speak English, Hindi and Marathi
 
 ---
@@ -76,36 +75,6 @@ I'm a backend engineer with **10+ years** of experience designing and building *
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
-
----
-
-### 💼 Experience
-
-<details>
-<summary><b>✨ Highlights</b> (click to expand)</summary>
-<br/>
-
-- Led **SOAP-to-REST modernization at IBM**, moving legacy services to **serverless REST APIs on AWS** with Quarkus
-- Moved complex legacy services to **Spring Boot on ROSA clusters**, with **Tekton** pipelines for continuous delivery
-- Automated infrastructure with **AWS CloudFormation** and ran **CI/CD on AWS CodePipeline** across dev, SI and prod
-- Built **multi-region deployments and failover** for resilience and availability
-- Led **performance and load testing**, and used async programming to speed up services
-- At Infosys, built **Java microservices** with Spring Cloud (OpenFeign, Config Server), **Quartz batch jobs on MongoDB**, and integrations with **S3, SQS and SFTP**
-
-</details>
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishhwas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwas&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vishhwas&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
 
 ---
 

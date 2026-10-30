@@ -26,7 +26,6 @@ I'm a backend engineer with **10+ years** of experience designing and building *
 - 🔁 I automate infrastructure and delivery with **CloudFormation**, **CodePipeline** and **Tekton**
 - 🛡️ I care about quality: **TDD**, **JUnit/Mockito**, **SonarQube** and **Veracode**-clean code
 - 🌍 I run **multi-region deployments with failover** for high availability
-- 🗣️ I speak English, Hindi and Marathi
 
 ---
 
